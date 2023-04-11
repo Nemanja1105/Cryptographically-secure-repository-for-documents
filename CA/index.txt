@@ -1,0 +1,7 @@
+V	230720224315Z		01	unknown	/C=or/ST=a/O=ETF/OU=d/CN=usr2/emailAddress=e
+V	230720224854Z		02	unknown	/C=BH/ST=RS/O=ETF/OU=d/CN=usr3/emailAddress=e
+V	230720225117Z		03	unknown	/C=BH/ST=RS/O=ETF/OU=d/CN=usr4/emailAddress=e
+V	230721210441Z		04	unknown	/C=BH/ST=RS/O=ETF/OU=ETF_STUDENT/CN=dafimjesalica/emailAddress=nemanja@gmail.com
+R	230807215325Z	230209141416Z,certificateHold	05	unknown	/C=BH/ST=RS/O=ETF/OU=ETF_STUDENT/CN=nemanja/emailAddress=student@gmail.com
+V	230808134628Z		06	unknown	/C=BH/ST=RS/O=ETF/OU=ETF_STUDENT/CN=milena/emailAddress=milena@gmail.com
+V	230808140246Z		07	unknown	/C=BH/ST=RS/O=ETF/OU=ETF_GARAZA/CN=aleksandar/emailAddress=sasa@gmail.com
